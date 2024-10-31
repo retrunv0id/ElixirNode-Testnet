@@ -1,7 +1,7 @@
 # ElixirNode-Testnet
 
    ```bash
-wget https://raw.githubusercontent.com/USER/REPO/main/install-testnet.sh && chmod +x install-testnet.sh && ./install-testnet.sh
+wget https://raw.githubusercontent.com/retrunv0id/ElixirNode-Testnet/main/install-testnet.sh && chmod +x install-testnet.sh && ./install-testnet.sh
    ```
 
 # Main features:
