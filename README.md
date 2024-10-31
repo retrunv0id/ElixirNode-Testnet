@@ -1,13 +1,40 @@
-# ElixirNode-Testnet
+# 🌟 Elixir Protocol Validator Testnet Setup
 
-   ```bash
+Automated setup script for Elixir Protocol Validator Testnet node.
+
+## 🚀 Features
+
+- 📦 Automatic Docker installation
+- 🔧 Interactive setup process
+- 🔄 Built-in update mechanism
+- 🛡️ Secure configuration handling
+- 🔌 Automatic container restart on system reboot
+- 📊 Easy log monitoring
+
+## 🛠️ Quick Installation
+
+```bash
 wget https://raw.githubusercontent.com/retrunv0id/ElixirNode-Testnet/main/install-testnet.sh && chmod +x install-testnet.sh && ./install-testnet.sh
-   ```
+```
 
-# Main features:
+## ⚙️ Setup Process
+The script will guide you through:
 
-## Automatic Docker installation
-## User input for configuration
-## Setup all required files
-## Automatic pull image and run container
-## Manual update script included
+Docker installation : 
+
+- Environment configuration
+- Node setup
+- Validator initialization
+
+You will need to provide:
+
+- VPS IP Address
+- Display Name for your validator
+- Beneficiary Address (with 0x)
+- Private Key (without 0x)
+
+## ⚠️ Important Notes
+- Keep your private key safe
+- Backup your validator.env file
+- Monitor your validator regularly
+- Join Discord for announcements
